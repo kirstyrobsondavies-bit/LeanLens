@@ -43,8 +43,7 @@ export default function Home() {
             </div>
             <h3 className="text-xl font-semibold mb-2">Get AS-IS Analysis</h3>
             <p className="text-gray-600 dark:text-gray-400">
-              Receive a detailed breakdown using Lean Six Sigma frameworks and waste
-              identification.
+              Receive a detailed breakdown using Lean Six Sigma frameworks and waste identification.
             </p>
           </div>
           <div className="text-center p-6">
@@ -53,8 +52,7 @@ export default function Home() {
             </div>
             <h3 className="text-xl font-semibold mb-2">Automation Plan</h3>
             <p className="text-gray-600 dark:text-gray-400">
-              Get personalized automation recommendations based on your tools and technology
-              stack.
+              Get personalized automation recommendations based on your tools and technology stack.
             </p>
           </div>
         </div>
